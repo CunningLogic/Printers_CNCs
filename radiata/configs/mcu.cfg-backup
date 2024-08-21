@@ -1,0 +1,7 @@
+[mcu]
+serial: /dev/serial/by-id/usb-Klipper_stm32f446xx_10000F000D50315939343520-if00
+restart_method: command
+
+[mcu nhk]
+serial: /dev/serial/by-id/usb-Klipper_rp2040_3033393834091DAB-if00
+restart_method: command
